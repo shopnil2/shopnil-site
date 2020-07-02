@@ -1,0 +1,101 @@
+.bd{
+    color: rgb(0, 4, 255);
+    font-size: xx-large;
+    font-weight: 700;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    font-family: 'Poppins', sans-serif;
+
+
+}
+.bn{
+    width: 300px;
+
+}
+.bn img{width: 100%;
+
+}
+.bm{
+    margin-left: 20%;
+}
+section{
+    width: 100%;
+    height: 500px;
+}
+header{
+    margin: 0;
+    position: sticky;
+    top: 0;
+}
+    
+
+header ul{
+    list list-style: none;
+    overflow: hidden;
+    background color: green;
+    margin: 0;
+    padding: 0;
+}
+ul li{
+    float: left;
+}
+ul li a{
+    padding: 10px 20px;
+    display: block;
+    color: black;
+    text-transform: capitalize;
+    text-decoration: none;
+    color: blue;
+}
+.link-button{
+    text-decoration: none;
+    
+    color: rgb(0, 224, 30);
+    background-color: blue;
+    padding: 10px 20px;
+}    
+.shopnil{
+    float: left;
+}
+.shopnil{
+    width: 80%;
+}
+.shopnil{
+    float: left;
+  width: 25%; 
+  padding: 15px;
+ position: center;
+ margin-left: 5%;
+}
+.MN{
+    text-align: center;
+    margin-top: -129px;
+    margin-bottom: 74px;
+
+}
+.shopnil img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0;
+}
+.shopnil{
+    box-shadow: 10px 20px 40px gray;
+    border border-image-slice: 1;
+    border-left: 7px solid blue;
+}
+#jk{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wer{
+    font-family: 'Poppins', sans-serif;
+}
+
